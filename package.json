@@ -1,0 +1,33 @@
+{
+  "name": "skylark-data-translators",
+  "version": "0.9.1",
+  "description": "The skylark i18n translation library.",
+  "main": "-",
+  "scripts": {
+    "build": "sbundle build .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "www.skylarkjs.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skylark-data/skylark-data-translators.git"
+  },
+  "keywords": [
+    "skylark",
+    "skylarkjs",
+    "javacript",
+    "library",
+    "utility",
+    "html5",
+    "i18n"
+  ],
+  "author": "Hudaokeji Co.,Ltd",
+  "license": "MIT",
+  "bugs": "https://github.com/skylarkjs/skylark/issues",
+  "dependencies": {
+    "skylark-langx": "git+https://github.com/skylark-langx/skylark-langx.git"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
